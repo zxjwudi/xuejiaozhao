@@ -363,3 +363,20 @@ li.pub-item {
 .ref-list li {
     margin-top: 1em
 }
+
+@media (max-width: 600px) {
+    /* 调整容器为列式排布 */
+    .container {
+        display: block;
+    }
+
+    .image, .content {
+        width: 100%; /* 容器宽度调整为100% */
+    }
+
+    .image img {
+        display: block; /* 确保图片居中显示 */
+        margin: 0 auto; /* 自动边距使其居中 */
+        height: auto; /* 图片高度自适应 */
+    }
+}
