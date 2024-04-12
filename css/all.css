@@ -35,6 +35,18 @@ body {
 
 @media screen and (max-width: 480px) {
   /* 针对屏幕宽度小于480px的设备的样式 */
+     #content {
+        margin: 10px 10px;
+        min-height: calc(100vh - 136px + 40px)
+    }
+}
+
+@media screen and (max-width: 768px) {
+  /* 针对屏幕宽度小于768px的设备的样式 */
+     #content {
+        margin: 10px 10px;
+        min-height: calc(100vh - 136px + 40px)
+    }
 }
 
 
