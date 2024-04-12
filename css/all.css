@@ -12,6 +12,7 @@ body {
 
 .container {
     max-width: 1200px;
+    min-width: 900px; /* 最小宽度 */
     margin: auto
 }
 
