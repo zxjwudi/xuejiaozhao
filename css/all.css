@@ -33,6 +33,11 @@ body {
     }
 }
 
+@media screen and (max-width: 480px) {
+  /* 针对屏幕宽度小于480px的设备的样式 */
+}
+
+
 .break {
     clear: both
 }
