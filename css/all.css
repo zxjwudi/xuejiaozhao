@@ -366,9 +366,9 @@ li.pub-item {
 }
 
 .contact-icon {
-  width: 18px;
-  height: 18px;
+  width: 17px;
+  height: 17px;
   fill: currentColor;
-  vertical-align: -2px;
-  margin-right: 6px;
+  vertical-align: -4px;
+  margin-right: 3px;
 }
