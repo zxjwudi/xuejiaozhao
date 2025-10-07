@@ -302,13 +302,6 @@ table.numberLines td.lineNumbers {
     width: 9em
 }
 
-.contact-icon {
-    width: 20px;
-    height: 20px;
-    position: relative;
-    top: 3px
-}
-
 .contact-icon-cell {
     padding: 0
 }
@@ -366,9 +359,9 @@ li.pub-item {
 }
 
 .contact-icon {
-  width: 17px;
-  height: 17px;
+  width: 20px;
+  height: 20px;
   fill: currentColor;
-  vertical-align: -6px;
-  margin-right: 2px;
+   position: relative;
+    top: 3px
 }
