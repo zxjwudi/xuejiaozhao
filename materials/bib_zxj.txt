@@ -1,0 +1,173 @@
+@inproceedings{zhao2025medrag,
+  title={Medrag: Enhancing retrieval-augmented generation with knowledge graph-elicited reasoning for healthcare copilot},
+  author={Zhao, Xuejiao and Liu, Siyan and Yang, Su-Yin and Miao, Chunyan},
+  booktitle={Proceedings of the ACM on Web Conference 2025},
+  pages={4442--4457},
+  year={2025}
+}
+
+
+@article{zhao2025smart,
+  title={A smart multimodal healthcare copilot with powerful llm reasoning},
+  author={Zhao, Xuejiao and Liu, Siyan and Yang, Su-Yin and Miao, Chunyan},
+  journal={arXiv preprint arXiv:2506.02470},
+  year={2025}
+}
+
+@article{zhao2021brain,
+  title={Brain-inspired search engine assistant based on knowledge graph},
+  author={Zhao, Xuejiao and Chen, Huanhuan and Xing, Zhenchang and Miao, Chunyan},
+  journal={IEEE Transactions on Neural Networks and Learning Systems},
+  volume={34},
+  number={8},
+  pages={4386--4400},
+  year={2021},
+  publisher={IEEE}
+}
+
+@article{zhao2022heterogeneous,
+  title={Heterogeneous star graph attention network for product attributes prediction},
+  author={Zhao, Xuejiao and Liu, Yong and Xu, Yonghui and Yang, Yonghua and Luo, Xusheng and Miao, Chunyan},
+  journal={Advanced Engineering Informatics},
+  volume={51},
+  pages={101447},
+  year={2022},
+  publisher={Elsevier}
+}
+
+@inproceedings{yang2025generalizable,
+  title={A generalizable anomaly detection method in dynamic graphs},
+  author={Yang, Xiao and Zhao, Xuejiao and Shen, Zhiqi},
+  booktitle={Proceedings of the AAAI Conference on Artificial Intelligence},
+  volume={39},
+  number={20},
+  pages={22001--22009},
+  year={2025}
+}
+
+@article{lee2024data,
+  title={Data Collection, data mining and transfer of learning based on customer temperament-centered complaint handling system and one-of-a-kind complaint handling dataset},
+  author={Lee, Ching-Hung and Zhao, Xuejiao},
+  journal={Advanced Engineering Informatics},
+  volume={60},
+  pages={102520},
+  year={2024},
+  publisher={Elsevier}
+}
+
+@article{YANG2026108104,
+title = {A unified gradient regularization method for heterogeneous graph neural networks},
+author = {Xiao Yang and Xuejiao Zhao and Zhiqi Shen},
+journal = {Neural Networks},
+volume = {194},
+pages = {108104},
+year = {2026},
+issn = {0893-6080}
+}
+
+@inproceedings{zhao2018smart,
+  title={A Smart Context-Aware Program Assistant Based on Dynamic Programming Event Modeling},
+  author={Zhao, Xuejiao and Li, Hongwei and Tang, Yutian and Gao, Dongjing and Bao, Lingfeng and Lee, Ching-Hung},
+  booktitle={2018 IEEE International Symposium on Software Reliability Engineering Workshops (ISSREW)},
+  pages={24--29},
+  year={2018},
+  organization={IEEE Computer Society}
+}
+
+@inproceedings{li2018improving,
+  title={Improving api caveats accessibility by mining api caveats knowledge graph},
+  author={Li, Hongwei and Li, Sirui and Sun, Jiamou and Xing, Zhenchang and Peng, Xin and Liu, Mingwei and Zhao, Xuejiao},
+  booktitle={2018 IEEE International Conference on Software Maintenance and Evolution (ICSME)},
+  pages={183--193},
+  year={2018},
+  organization={IEEE}
+}
+
+@inproceedings{zhao2017hdskg,
+  title={Hdskg: Harvesting domain specific knowledge graph from content of webpages},
+  author={Zhao, Xuejiao and Xing, Zhenchang and Kabir, Muhammad Ashad and Sawada, Naoya and Li, Jing and Lin, Shang-Wei},
+  booktitle={2017 ieee 24th international conference on software analysis, evolution and reengineering (saner)},
+  pages={56--67},
+  year={2017},
+  organization={IEEE}
+}
+
+@article{rao2025survey,
+  title={A survey of artificial intelligence in gait-based neurodegenerative disease diagnosis},
+  author={Rao, Haocong and Zeng, Minlin and Zhao, Xuejiao and Miao, Chunyan},
+  journal={Neurocomputing},
+  volume={626},
+  pages={129533},
+  year={2025},
+  publisher={Elsevier}
+}
+
+@article{yin2024lm2d,
+  title={Lm2d: Lyrics-and music-driven dance synthesis},
+  author={Yin, Wenjie and Zhao, Xuejiao and Yu, Yi and Yin, Hang and Kragic, Danica and Bj{\"o}rkman, M{\aa}rten},
+  journal={arXiv preprint arXiv:2403.09407},
+  year={2024}
+}
+
+@inproceedings{lee2021survey,
+  title={A survey of smart healthcare for the elderly based on user requirements and supply accessibility},
+  author={Lee, Ching Hung and Zhang, Zehao and Zhao, Xuejiao},
+  booktitle={5th International Conference on Crowd Science and Engineering},
+  pages={108--112},
+  year={2021}
+}
+
+@article{cao2024cheating,
+  title={Cheating your apps: Black-box adversarial attacks on deep learning apps},
+  author={Cao, Hongchen and Li, Shuai and Zhou, Yuming and Fan, Ming and Zhao, Xuejiao and Tang, Yutian},
+  journal={Journal of Software: Evolution and Process},
+  volume={36},
+  number={4},
+  pages={e2528},
+  year={2024},
+  publisher={Wiley Online Library}
+}
+
+@article{lee2019service,
+  title={Service quality driven approach for innovative retail service system design and evaluation: A case study},
+  author={Lee, Ching-Hung and Zhao, Xuejiao and Lee, Yu-Chi},
+  journal={Computers \& Industrial Engineering},
+  volume={135},
+  pages={275--285},
+  year={2019},
+  publisher={Elsevier}
+}
+
+@inproceedings{wei2018comprehensive,
+  title={A comprehensive exploration to the machine learning techniques for diabetes identification},
+  author={Wei, Sidong and Zhao, Xuejiao and Miao, Chunyan},
+  booktitle={2018 IEEE 4th World Forum on Internet of Things (WF-IoT)},
+  pages={291--295},
+  year={2018},
+  organization={IEEE}
+}
+
+@article{lee2019developing,
+  title={Developing a quick response product configuration system under industry 4.0 based on customer requirement modelling and optimization method},
+  author={Lee, Ching-Hung and Chen, Chun-Hsien and Lin, Chenyu and Li, Fan and Zhao, Xuejiao},
+  journal={Applied Sciences},
+  volume={9},
+  number={23},
+  pages={5004},
+  year={2019},
+  publisher={MDPI}
+}
+
+@article{yang2025ehrstruct,
+  title={EHRStruct: A Comprehensive Benchmark Framework for Evaluating Large Language Models on Structured Electronic Health Record Tasks},
+  author={Yang, Xiao and Zhao, Xuejiao and Shen, Zhiqi},
+  journal={arXiv preprint arXiv:2511.08206},
+  year={2025}
+}
+
+article{zhao2025gem,
+  title={GEM: Generative Entropy-Guided Preference Modeling for Few-shot Alignment of LLMs},
+  author={Zhao, Yiyang and Bai, Huiyu and Zhao, Xuejiao},
+  journal={arXiv preprint arXiv:2511.13007},
+  year={2025}
+}
