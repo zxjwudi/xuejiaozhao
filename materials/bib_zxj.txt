@@ -1,3 +1,10 @@
+@article{bai2025online,
+  title={Online-PVLM: Advancing Personalized VLMs with Online Concept Learning},
+  author={Bai, Huiyu and Wang, Runze and Du, Zhuoyun and Zhao, Yiyang and Zhang, Fengji and Chen, Haoyu and Zhu, Xiaoyong and Zheng, Bo and Zhao, Xuejiao},
+  journal={arXiv preprint arXiv:2511.20056},
+  year={2025}
+}
+
 @inproceedings{zhao2025medrag,
   title={Medrag: Enhancing retrieval-augmented generation with knowledge graph-elicited reasoning for healthcare copilot},
   author={Zhao, Xuejiao and Liu, Siyan and Yang, Su-Yin and Miao, Chunyan},
@@ -170,4 +177,5 @@ article{zhao2025gem,
   author={Zhao, Yiyang and Bai, Huiyu and Zhao, Xuejiao},
   journal={arXiv preprint arXiv:2511.13007},
   year={2025}
+
 }
